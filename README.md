@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:AEEFFF,100:E0F7FF&text=DanX-Gold&fontColor=1E3A5F&fontSize=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:87CEEB,100:BFEFFF&text=DanX-Gold&fontColor=ffffff&fontSize=50" />
 <h1 align="center">Hi Dear😸, I'm Danial Esmaeili</h1>
 <h3 align="center">Front-End Developer</h3>
 
