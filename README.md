@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,webstorm,nodejs,npm,C#" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,webstorm,cs,linux,python" />
 </p>
 
 ---
@@ -45,11 +45,15 @@
   <a href="https://github.com/DanX-Gold">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://t.me/DANIEL_S_2010">
-    <img src="https://img.shields.io/badge/Telegram-38BDF8?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
 
+  <a href="https://t.me/DANIEL_S_2010">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48" height="48" />
+  </a>
+
+ <a href="https://www.instagram.com/danial_esmaeili.s/">
+  <img src="https://cdn.simpleicons.org/instagram/DD2A7B" width="48" height="48" />
+</a>
+</p>
 ---
 
 <p align="center">
