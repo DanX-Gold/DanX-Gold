@@ -43,17 +43,24 @@
 
 <p align="center">
   <a href="https://github.com/DanX-Gold">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://cdn.simpleicons.org/github/white" width="48" height="48" />
   </a>
 
   <a href="https://t.me/DANIEL_S_2010">
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48" height="48" />
   </a>
 
- <a href="https://www.instagram.com/danial_esmaeili.s/">
-  <img src="https://cdn.simpleicons.org/instagram/DD2A7B" width="48" height="48" />
-</a>
+  <a href="https://www.instagram.com/danial_esmaeili.s/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48" />
+  </a>
+
+  <a href="mailto:danx44e@gmail.com">
+    <img src="https://www.gstatic.com/images/branding/product/2x/gmail_2020q4_48dp.png"
+         width="48"
+         height="48" />
+  </a>
 </p>
+
 ---
 
 <p align="center">
