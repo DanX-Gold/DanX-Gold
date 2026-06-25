@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer</h3>
 
 <p align="center">
-  Passionate about building modern and responsive web applications.
+  Passionate about building modern and responsive web applications
 </p>
 
 ---
