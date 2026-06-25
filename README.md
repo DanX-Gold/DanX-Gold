@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00EAFF,100:00EAFF&text=DanX-Gold&fontColor=ffffff&fontSize=50&animation=fadeIn" />
 <h1 align="center">Hi Dear😸, I'm Danial Esmaeili</h1>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">FrontEnd Developer</h3>
 
 <p align="center">
   Passionate about building modern and responsive web applications
