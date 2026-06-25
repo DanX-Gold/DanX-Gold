@@ -54,7 +54,7 @@
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48" />
   </a>
 
-  <a href="mailto:danx44e@gmail.com">
+  <a href="danx44e@gmail.com">
     <img src="https://www.gstatic.com/images/branding/product/2x/gmail_2020q4_48dp.png"
          width="48"
          height="48" />
