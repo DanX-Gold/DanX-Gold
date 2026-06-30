@@ -42,11 +42,11 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/DanX-Gold">
+  <a href="https://github.com/danxcode">
     <img src="https://cdn.simpleicons.org/github/white" width="48" height="48" />
   </a>
 
-  <a href="https://t.me/DANIEL_S_2010">
+  <a href="https://t.me/danxcode">
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48" height="48" />
   </a>
 
@@ -54,7 +54,7 @@
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48" />
   </a>
 
-  <a href="mailto:danx44e@gmail.com">
+  <a href="mailto:danxcodee@gmail.com">
     <img src="https://www.gstatic.com/images/branding/product/2x/gmail_2020q4_48dp.png"
          width="48"
          height="48" />
